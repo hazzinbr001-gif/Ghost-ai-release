@@ -1,0 +1,11 @@
+{
+  "backend_url": "https://ghosty.fly.dev",
+  "overlay_opacity": 160,
+  "max_tokens": 1000,
+  "hotkey_ocr_select": "f2",
+  "hotkey_ocr_run": "f8",
+  "hotkey_send": "f7",
+  "allow_synthetic_copy": true,
+  "expiry_prompt": true,
+  "expire_action": "exit"
+}
